@@ -1,0 +1,73 @@
+<html>
+<head>
+<h1><u><center>Resume</center></h1></u>
+	<title>resume</title>
+
+
+</head>
+<body>
+<h4><b>M INDU</h4></b>
+<h5>inducsreddy@gmail.com</h5>
+<h5>8500133603</h5>
+<right><img src="C:\Users\Indu\Downloads" alt="pic" width="40" height="40" align="right"/><br>
+<h3 style="background-color:gray;">CAREER OBJECTIVE</h1>
+<h3><p>To work in hifh-grown organization with a  challenging environment that creates an ideal condition for delivering high quality services</p></h3>
+<h3 style="background-color:gray;">SKILLS</h1>
+<p><b>Technical Aspects</b> : Basics of c,c++,data structures and Java.<br/>
+<b>personal skills </b>: I work good with the team.<br/>
+<b>communication skills </b> :I have good communication skills.</p></h5>
+ <h3 style="background-color:gray;">EDUCATION</h1>
+<table border>
+<tr>
+<th>Degree/course</th>
+<th>institute/college</th>
+<th>university/board</th>
+<th>percentage/CGPA</th>
+<th>Year of passing</th>
+</tr>
+<tr>
+<th>10th</th>
+<td>L R G Vidyalyam</td>
+<td>board of secondary school</td>
+<td>9.7CGPA</td>
+<td>2015</td>
+</tr>
+<tr>
+<th>Intermediate</th>
+<td>L R G Naidu Jr College</td>
+<td>board of intermediate education</td>
+<td>95.6%</td>
+<td>2017</td>
+</tr>
+<tr>
+<th>B Tech</th>
+<td>GITAM School of Technology</td>
+<td>GITAM</td>
+<td>8.8 CGPA</td>
+<td>Persuing</td>
+</tr>
+</table>
+<h3 style="background-color:gray;">ACHIEVEMENTS</h1>
+<P><b>Bolt Iot</b>:Actively participated in iot workshop held in gitam university.</p></h4>
+<h3 style="background-color:gray;">HOBBIES</h1>
+<ul>
+<h4><li>Watching Movies</li><li>Surfing web</li><li>Singing</h4></li>
+</ul>
+<h3 style="background-color:gray;">PERSONAL DETAILS</h1>
+<ul>
+<li><b>Address </b>:Anantapur DIST,Hindupur,D-no:1-149-6</li>
+<li><b>Date of Birth</b>:31/12/1999</li>
+<li><b>Gender</b>:Female</li>
+<li><b>Nationality</b>:Indian</li>
+<li><b>Languages known</b>:<ul><li>Telugu</li><li>English</li><li>Kannada</li></ul>
+</ul>s
+
+<h3 style="background-color:gray;">DECLARATION</h1>
+<h4>I do hereby declare that the above given statements are true and correct to the best of my knowledge.</h4>
+<b>place:</b>Bengaluru</br>
+<b>Date	:</b>02/02/2020
+<img src="C:\Users\Indu\Pictures\images<br>" alt="signature" align="right"/>
+
+<h5><signature</h5><br/>
+</body>
+</html>
